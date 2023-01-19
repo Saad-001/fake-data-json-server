@@ -1,13 +1,13 @@
 {
-  "name": "lws-json-server-todos",
-  "description": "Example in memory todos api with json-server by Learn with Sumit",
+  "name": "todo-app-json-server",
+  "description": "Example in memory todos api with json-server by Sa'ad",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "Learn with Sumit",
+  "author": "Sa'ad",
   "dependencies": {
     "json-server": "^0.17.0"
   }
